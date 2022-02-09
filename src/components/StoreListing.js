@@ -19,7 +19,7 @@ export default function StoreListings() {
           fontWeight: "normal",
         }}
       >
-        Browse stores in New Jersey!
+        Browse Stores In New Jersey
       </h2>
       <Container style={{ marginTop: "50px", textAlign: "center" }}>
         <Row
