@@ -37,7 +37,7 @@ export default function StoreListings() {
                   width: "50px",
                   border: "1px solid #E8E9EB",
                 }}
-                src={Aldi}
+                src={Aldi} alt="Aldi logo"
                 roundedCircle
               />
             </Col>
@@ -55,7 +55,7 @@ export default function StoreListings() {
                   width: "50px",
                   border: "1px solid #E8E9EB",
                 }}
-                src={Sprouts}
+                src={Sprouts} alt="Sprouts Market Logo"
                 roundedCircle
               />
             </Col>
@@ -73,7 +73,7 @@ export default function StoreListings() {
                   width: "50px",
                   border: "1px solid #E8E9EB",
                 }}
-                src={Heb}
+                src={Heb} alt="Heb Market Logo"
                 roundedCircle
               />
             </Col>
@@ -100,7 +100,7 @@ export default function StoreListings() {
                   width: "50px",
                   border: "1px solid #E8E9EB",
                 }}
-                src={Sprouts}
+                src={Sprouts} alt="Sprouts Market Logo"
                 roundedCircle
               />
             </Col>
@@ -118,7 +118,7 @@ export default function StoreListings() {
                   width: "50px",
                   border: "1px solid #E8E9EB",
                 }}
-                src={Heb}
+                src={Heb} alt="Heb Market Logo"
                 roundedCircle
               />
             </Col>
@@ -136,7 +136,7 @@ export default function StoreListings() {
                   width: "50px",
                   border: "1px solid #E8E9EB",
                 }}
-                src={Aldi}
+                src={Aldi} alt="Aldi Logo"
                 roundedCircle
               />
             </Col>

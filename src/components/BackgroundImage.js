@@ -18,8 +18,7 @@ export default function Background() {
           <div
             style={{
               top: "auto",
-              width: "578px",
-              marginLeft: "100px",
+              width: "600px",
               marginBottom: "50px",
               marginTop: "75px",
             }}
@@ -63,7 +62,7 @@ export default function Background() {
             backgroundSize: "contain",
             backgroundRepeat: "no-repeat",
           }}
-          src={BackgroundImage}
+          src={BackgroundImage} alt="instacart background image"
           alt="Card image"
         />
       </div>
